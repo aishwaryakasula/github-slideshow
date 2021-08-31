@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Anything in excess is a poission".
 Use the left arrow to go back!
